@@ -10,6 +10,9 @@ body,
   width: 100%;
 
   font-family: Inter, sans-serif;
+
+  overflow: auto;
+
 }
 
 .app {
