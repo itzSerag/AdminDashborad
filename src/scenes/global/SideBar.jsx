@@ -101,7 +101,7 @@ const Sidebar = () => {
                                     alt="profile-user"
                                     width="100px"
                                     height="100px"
-                                    src="./../../public/seragAdmin.png"
+                                    src="https://drive.google.com/file/d/1D3C4p4I3BRaUKes9NMii3nKxlfrnGjK-/view?usp=sharing"
                                     style={{ cursor: "pointer", borderRadius: "50%" }}
                                 />
                             </Box>
