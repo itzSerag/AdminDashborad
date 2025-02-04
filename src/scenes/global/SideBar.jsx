@@ -101,8 +101,7 @@ const Sidebar = () => {
                                     alt="profile-user"
                                     width="100px"
                                     height="100px"
-                                    src="src/assets/seragAdmin.png
-                                    "
+                                    src="./../../public/seragAdmin.png"
                                     style={{ cursor: "pointer", borderRadius: "50%" }}
                                 />
                             </Box>
