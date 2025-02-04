@@ -21,6 +21,7 @@ import MapOutlinedIcon from "@mui/icons-material/MapOutlined";
 // Notice we use it globally
 // to : where to navigate after pressing on this link
 
+// eslint-disable-next-line react/prop-types
 const Item = ({ title, to, icon, selected, setSelected }) => {
     const theme = useTheme();
     const colors = tokens(theme.palette.mode);
